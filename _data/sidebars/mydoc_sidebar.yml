@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: CISSP docs
+  product: CCSP docs
   version: rev. 0.9
   folders:
 
@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: About the CISSP exam
+    - title: About the CCSP exam
       url: /about_exam.html
       output: web, pdf
 
@@ -44,7 +44,7 @@ entries:
       url: /about.html
       output: web, pdf
 
-  - title: 1. Security and Risk Management
+  - title: 1. Cloud Concepts, Architecture and Design
     output: web, pdf
     folderitems:
 
@@ -60,7 +60,7 @@ entries:
       url: /1_mindmaps.html
       output: web, pdf
 
-  - title: 2. Asset Security
+  - title: 2. Cloud Data Security
     output: web, pdf
     folderitems:
 
@@ -76,7 +76,7 @@ entries:
       url: /2_mindmaps.html
       output: web, pdf
 
-  - title: 3. Security Architecture and Engineering
+  - title: 3. Cloud Platform and Infrastructure Security
     output: web, pdf
     folderitems:
 
@@ -104,10 +104,14 @@ entries:
       url: /3_mindmaps.html
       output: web, pdf
 
-  - title: 4. Communications and Network Security
+  - title: 4. Cloud Application Security
     output: web, pdf
     folderitems:
 
+    - title: Certification Exam Outline
+      url: /4_ceo.html
+      output: web, pdf
+   
     - title: Notes
       url: /4_notes.html
       output: web, pdf
@@ -116,10 +120,14 @@ entries:
       url: /4_mindmaps.html
       output: web, pdf
 
-  - title: 5. Identity and Access Management
+  - title: 5. Cloud Security Operations
     output: web, pdf
     folderitems:
 
+    - title: Certification Exam Outline
+      url: /5_ceo.html
+      output: web, pdf
+ 
     - title: Notes
       url: /5_notes.html
       output: web, pdf
@@ -128,9 +136,13 @@ entries:
       url: /5_mindmaps.html
       output: web, pdf
 
-  - title: 6. Security Assessment and Testing
+  - title: 6. Legal, Risk and Compliance
     output: web, pdf
     folderitems:
+
+    - title: Certification Exam Outline
+      url: /6_ceo.html
+      output: web, pdf
 
     - title: Notes
       url: /6_notes.html
@@ -138,30 +150,6 @@ entries:
 
     - title: Mindmaps
       url: /6_mindmaps.html
-      output: web, pdf
-
-  - title: 7. Security Operations
-    output: web, pdf
-    folderitems:
-
-    - title: Notes
-      url: /7_notes.html
-      output: web, pdf
-
-    - title: Mindmaps
-      url: /7_mindmaps.html
-      output: web, pdf
-
-  - title: 8. Software Development Security
-    output: web, pdf
-    folderitems:
-
-    - title: Notes
-      url: /8_notes.html
-      output: web, pdf
-
-    - title: Mindmaps
-      url: /8_mindmaps.html
       output: web, pdf
 
   - title: Resources
@@ -234,14 +222,6 @@ entries:
 
     - title: domain_6
       url: /tag_domain_6.html
-      output: web
-
-    - title: domain_7
-      url: /tag_domain_7.html
-      output: web
-
-    - title: domain_8
-      url: /tag_domain_8.html
       output: web
 
     - title: news

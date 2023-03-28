@@ -4,15 +4,15 @@ keywords:  homepage
 tags: [about]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: This website is my attempt to summarize information while learning for the CISSP exam.
-last_updated: 22 Aug 2020
+summary: This website is an attempt to summarize information while learning for the CCSP exam.
+last_updated: 28 Mar 2023
 ---
 
 <!--{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
 -->
 ## What
 
-While not my main notebook, I shall try to summarise here information upon I came across during my study for CISSP. 
+While not my main notebook, I shall try to summarise here information upon I came across during my study for CCSP. 
 
 The whole idea is to have it formatted in an optimal layout for [skimming](http://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html). **Accent is put on BREVITY.**
 
@@ -33,7 +33,7 @@ And last (but not least) - BECAUSE WHY NOT?!
 
 
 ## Can it be useful to me (the reader)?
-
+/
 Maybe. Maybe not. I dunno.
 
 It helps me to organise the information in a visual way which makes it easier for me to quickly repeat/digest. Maybe you're more the video type or the "read the book" type. Then it won't work for you.
@@ -43,6 +43,8 @@ Feel free to fork and expand the content on your own or make a pull request if y
 ```
 
 ## Disclaimer
+
+If you find funny links: this repo is just  a copy of my old [CISSP](https://github.io/quaie/cissp) repo :).
 
 As stated earlier, brevity is the most important quality of these notes; they might be definitions, ideas, copy/paste from other text, abbreviations, whatever. Take it or leave it.
 

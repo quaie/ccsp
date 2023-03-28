@@ -1,8 +1,8 @@
 ---
-title: "Domain 1: Security and Risk Management"
+title: "Domain 1: Cloud Concepts, Architecture and Design"
 tags: [domain_1]
 #keywords: release notes, announcements, what's new, new features
-last_updated: Sep 1, 2020
+last_updated: 28 Mar 2023
 summary: "CEO Domain 1"
 sidebar: mydoc_sidebar
 permalink: 1_ceo.html
@@ -12,72 +12,41 @@ folder: mydoc
 ------------------------------------------------------------------
 **_Certification Exam Outline_**
 
-`1.1 Understand and apply concepts of confidentiality, integrity and availability`
+`1.1 Understand cloud computing concepts`
+> - Cloud computing definitions
+- Cloud computing roles and responsibilities (e.g., cloud service customer, cloud service provider, cloud service partner, cloud service broker, regulator)
+- Key cloud computing characteristics (e.g., on-demand self-service, broad network access, multi-tenancy, rapid elasticity and scalability, resource pooling, measured service)
+> - Building block technologies (e.g., virtualization, storage, networking, databases, orchestration)
 
-`1.2 Evaluate and apply security governance principles`
-- Alignment of security function to business strategy, goals, mission, and objectives
-- Organizational processes (e.g., acquisitions, divestitures, governance committees)
-- Organizational roles and responsibilities
-- Security control frameworks
-- Due care/due diligence
+`1.2 Describe cloud reference architecture`
+>- Cloud computing activities
+- Cloud service capabilities (e.g., application capability types, platform capability types, infrastructure capability types)
+- Cloud service categories (e.g., Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS))
+- Cloud deployment models (e.g., public, private, hybrid, community, multi-cloud)
+- Cloud shared considerations (e.g., interoperability, portability, reversibility, availability, security, privacy, resiliency, performance, governance, maintenance and versioning, service levels and service-level agreements (SLA), auditability, regulatory, outsourcing)
+> - Impact of related technologies (e.g., data science, machine learning, artificial intelligence (AI), blockchain, Internet of Things (IoT), containers, quantum computing, edge computing, confidential computing, DevSecOps)
 
-`1.3 Determine compliance requirements`
-- Contractual, legal, industry standards, and regulatory requirements
-- Privacy requirements
+`1.3 Understand security concepts relevant to cloud computing`
+> - Cryptography and key management
+- Identity and access control (e.g., user access, privilege access, service access)
+- Data and media sanitization (e.g., overwriting, cryptographic erase)
+- Network security (e.g., network security groups, traffic inspection, geofencing, zero trust network)
+- Virtualization security (e.g., hypervisor security, container security, ephemeral computing, serverless technology)
+- Common threats
+> - Security hygiene (e.g., patching, baselining)
 
-`1.4 Understand legal and regulatory issues that pertain to information security in a global context`
-- Cyber crimes and data breaches
-- Licensing and intellectual property requirements
-- Import/export controls
-- Trans-border data flow
-- Privacy
+`1.4 Understand design principles of secure cloud computing`
+> - Cloud secure data lifecycle
+- Cloud-based business continuity (BC) and disaster recovery (DR) plan
+- Business impact analysis (BIA) (e.g., cost-benefit analysis, return on investment (ROI))
+- Functional security requirements (e.g., portability, interoperability, vendor lock-in)
+- Security considerations and responsibilities for different cloud categories (e.g., Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS))
+- Cloud design patterns (e.g., SANS security principles, Well-Architected Framework, Cloud Security Alliance (CSA) Enterprise Architecture)
+> - DevOps security
 
-`1.5 Understand, adhere to, and promote professional ethics`
-- (ISC)² Code of Professional Ethics
-- Organizational code of ethics
-
-`1.6 Develop, document, and implement security policy, standards, procedures, and guidelines`
-
-`1.7 Identify, analyze, and prioritize Business Continuity (BC) requirements`
-
-- Develop and document scope and plan
-- Business Impact Analysis (BIA)
-
-`1.8 Contribute to and enforce personnel security policies and procedures`
-- Candidate screening and hiring
-- Employment agreements and policies
-- Onboarding and termination processes
-- Vendor, consultant, and contractor agreements and controls
-- Compliance policy requirements
-- Privacy policy requirements
-
-`1.9 Understand and apply risk management concepts`
-- Identify threats and vulnerabilities
-- Risk assessment/analysis
-- Risk response
-- Countermeasure selection and implementation
-- Applicable types of controls (e.g., preventive, detective, corrective)
-- Security Control Assessment (SCA)
-- Monitoring and measurement
-- Asset valuation
-- Reporting
-- Continuous improvement
-- Risk frameworks
-
-`1.10 Understand and apply threat modeling concepts and methodologies`
-- Threat modeling methodologies
-- Threat modeling concepts
-
-`1.11 Apply risk-based management concepts to the supply chain`
-- Risks associated with hardware, software, and services
-- Third-party assessment and monitoring
-- Minimum security requirements
-- Service-level requirements
-
-`1.12 Establish and maintain a security awareness, education, and training program`
-- Methods and techniques to present awareness and training
-- Periodic content reviews
-- Program effectiveness evaluation
+`1.5 Evaluate cloud service providers`
+> - Verification against criteria (e.g., International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27017, Payment Card Industry Data Security Standard (PCI DSS))
+> - System/subsystem product certifications (e.g., Common Criteria (CC), Federal Information Processing Standard (FIPS) 140-2)
 
 ------------------------------------------------------------------
 
